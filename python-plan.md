@@ -50,5 +50,3 @@
 - **Presentation**: A visual summary of the project, key insights, and outcomes.
 
 ---
-
-This detailed plan gives you flexibility while ensuring steady progress throughout the project. If you need to adjust anything along the way, you can easily shift individual tasks to meet your schedule. Let me know if you need further assistance in implementing any of these steps!
